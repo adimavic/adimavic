@@ -73,10 +73,6 @@ Here’s what I’m skilled at working with:
 
 > Stay tuned for upcoming open-source projects and contributions!  
 
----
-
 💡 **Let’s build something awesome together!**  
 
---- 
 
-Let me know if you'd like to modify or personalize anything further!
