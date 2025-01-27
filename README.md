@@ -60,14 +60,6 @@ Here’s what I’m skilled at working with:
 
 ---
 
-### 📊 GitHub Stats  
-
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-kale&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kale&layout=compact&theme=radical)  
-
-
----
 
 ### 🔝 Top Contributed Repos  
 
