@@ -1,7 +1,3 @@
-Here’s a personalized and well-structured README for you:  
-
----
-
 # 👋 About Me  
 
 ## Hi, I'm Aditya Kale!  
