@@ -1,4 +1,3 @@
-# 👋 About Me  
 # 👋 Hi, I'm Aditya Kale!
 
 🚀 **DevOps Enthusiast | Cloud-Native Advocate | Open Source Contributor**
